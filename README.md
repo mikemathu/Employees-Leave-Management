@@ -1,5 +1,3 @@
-# .NET 6 Leave Management System 
-
 # To Configure For Local Use
 - Clone Repository To Local Computer
 - Open Project in Visual Studio
